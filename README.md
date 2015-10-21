@@ -1,2 +1,1 @@
-# conf.kde.in
-Conf Kde Frontend
+# conf.kde.in2016
